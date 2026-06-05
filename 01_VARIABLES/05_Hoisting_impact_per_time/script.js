@@ -1,4 +1,4 @@
-var a = undefined;
+// var a = undefined;
 
 //* Hoisting impact per time
 
@@ -7,8 +7,7 @@ var a = undefined;
 //* hoisting -> Any Variable is Create a JS so Variable break a two part first part is a Decleleare Part this is a upper side part and second part is a initilization part this is a lower side part ;
 
 console.log(a);
-
-var a = 12;
+let a = 12;
 
 //? var -> hoist -> undefind
 

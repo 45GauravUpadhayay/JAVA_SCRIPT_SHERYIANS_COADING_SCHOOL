@@ -20,6 +20,4 @@
 //*let b = 45; this is a called a declarations
 //*b = 32; this is a called a reassignement
 
-//*let b = 88; this is called a redeclarations but let me ham redeclartion nahi kar sakte hai hame nerror aayega
-
-
+//*let b = 88; this is called a redeclarations but let me ham redeclartion nahi kar sakte hai hame error aayega
