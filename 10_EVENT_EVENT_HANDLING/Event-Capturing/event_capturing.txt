@@ -1,0 +1,12 @@
+Jab Bhi ham Clock Karte hai yab Koi Bhi Event Raise Karte hai to Hamara Jo Event Flow hota hai vah 2 PHASES me hota hai:
+
+Phase 1: event top se bottom par aata hai
+Phase 2: jab event me event raised hota hai to element event raised se parent ki taraf jata hai
+
+Aur Phase 1 pahle hota hai
+
+Hamesa Phase 1 hi pahle chalti hai but vah by default off hoti hai , agar hum use on kar de to pahle phase 1 ka answer milega
+
+Pahle Capture chalta hai bad me bubble phase chalta hai
+
+capture Phase -> {}, true ;
