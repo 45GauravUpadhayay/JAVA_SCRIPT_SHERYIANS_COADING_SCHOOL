@@ -5,5 +5,3 @@ console.log(a);
 let a = 45;
 
 //? tdz - var me nahi hota hai because ise execution karne par hame undefind name ki value milti hai
- 
-

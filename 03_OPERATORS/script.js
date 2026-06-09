@@ -25,10 +25,10 @@
 //* This is a OR Operators
 // ||
 
-//?  true && true -> true
-//?  false && true -> true
-//?  true && false -> true
-//?  false && false -> false
+//?  true || true -> true
+//?  false || true -> true
+//?  true ||false -> true
+//?  false || false -> false
 
 
 //* Unary Operators -> jo single values par apply ho
