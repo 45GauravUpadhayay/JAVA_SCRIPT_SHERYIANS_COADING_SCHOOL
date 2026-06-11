@@ -20,6 +20,7 @@ const userManager = {
             bio: bio.value,
             photo: photo.value,
         });
+        form.reset();
         this.renderUi();
     },
     renderUi: function(){
